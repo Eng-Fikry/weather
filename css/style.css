@@ -11,6 +11,10 @@
     border-radius: 100vh;
 }
 
+.body0{
+    background-color: #1e202b;
+}
+
 .navvbar a:hover{
     color: #06a5da;
 
